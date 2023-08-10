@@ -38,11 +38,11 @@ To run the Console Book Management System on your machine, follow these steps:
    git clone https://github.com/your-username/console-book-management.git
 
 ## Run the Application  
-3. Open the project in your C# development environment.
+1. Open the project in your C# development environment.
 
-4. Build and run the project.
+2. Build and run the project.
 
-5. Follow the on-screen prompts to perform book management operations.
+3. Follow the on-screen prompts to perform book management operations.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
