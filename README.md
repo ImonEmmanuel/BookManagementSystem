@@ -53,7 +53,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
     ```sh
     git checkout -b feature/my-feature
 
-
 3. Make your changes and commit them:
     ```sh
     git commit -am 'Add some feature'
